@@ -12,7 +12,7 @@
 
 <section class='container'>
           <hgroup>
-            <h1>PHP application on OpenShift!</h1>
+            <h1>PHP Application on OpenShift!!!</h1>
           </hgroup>
 
 <?php
